@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oster2025/static/css/main.e894e249.css",
+    "main.js": "/oster2025/static/js/main.fc1f8ac9.js",
+    "static/media/oster6.jpg": "/oster2025/static/media/oster6.9bdb79e5997520c497c6.jpg",
+    "static/media/oster5.jpg": "/oster2025/static/media/oster5.466bc6ff66095d318952.jpg",
+    "static/media/oster2.jpg": "/oster2025/static/media/oster2.f02eb89b78fe44e77775.jpg",
+    "index.html": "/oster2025/index.html",
+    "main.e894e249.css.map": "/oster2025/static/css/main.e894e249.css.map",
+    "main.fc1f8ac9.js.map": "/oster2025/static/js/main.fc1f8ac9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e894e249.css",
+    "static/js/main.fc1f8ac9.js"
+  ]
+}
